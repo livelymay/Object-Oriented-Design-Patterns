@@ -3,5 +3,6 @@ Java code for various Object Oriented Design Patterns
 
 ## Index
 
-* [Solid Design Priniciples]()
-    * [Single Responsibility Principle]()
+* [Solid Design Priniciples](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/solid)
+    * [Single Responsibility Principle](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/solid/srp)
+    * [Open Closed Principle](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/solid/ocp)
