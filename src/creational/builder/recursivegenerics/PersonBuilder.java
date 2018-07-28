@@ -1,4 +1,4 @@
-package creational.builder.personbuilder;
+package creational.builder.recursivegenerics;
 
 public class PersonBuilder<SELF extends PersonBuilder<SELF>> {
 

@@ -1,4 +1,4 @@
-package creational.builder.personbuilder;
+package creational.builder.recursivegenerics;
 
 public class Person {
     public String name;
